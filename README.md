@@ -10,13 +10,6 @@ Website and download: [blockbench.org](https://www.blockbench.org)
 
 ---
 
-## Contribution  
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.MD)  
-
-Check out the [Contribution Guidelines](CONTRIBUTING.md).  
-
----
 
 ## Launching Blockbench  
 
