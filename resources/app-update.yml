@@ -1,0 +1,6 @@
+owner: JannisX11
+repo: blockbench
+provider: github
+updaterCacheDirName: blockbench-updater
+publisherName:
+  - Jannis Tobias Petersen
