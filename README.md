@@ -8,9 +8,6 @@ Blockbench features a modern and beginner friendly interface, but also offers lo
 Website and download: [blockbench.org](https://www.blockbench.org)  
 
 
----
-
-
 ## Launching Blockbench  
 
 To launch Blockbench from source, you can clone the repository, navigate to the correct branch and launch the program in development mode using the instructions below. If you just want to use the latest version, please download the app from the website.  
@@ -27,7 +24,7 @@ To launch Blockbench from source, you can clone the repository, navigate to the 
 
 ## Plugins  
 
-Blockbench supports Javascript-based plugins. Learn more about creating plugins on [https://www.blockbench.org/wiki/docs/plugin](https://www.blockbench.org/wiki/docs/plugin).  
+Blockbench supports Javascript-based plugins. Learn more about creating plugins on [https://blockbench.org/plugins/](https://blockbench.org/plugins/).  
 
 ---
 
